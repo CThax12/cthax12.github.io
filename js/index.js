@@ -9,7 +9,7 @@
       timer = null;
   console.log('wat', card);
   openB.addEventListener('click', function () {
-    var audio = new Audio('https://github.com/CallanCampos/Anniversary/raw/main/js/mymusic.mp3');
+    var audio = new Audio('https://github.com/CallanCampos/Anniversary/raw/main/mymusic.mp3');
     audio.play();
     card.setAttribute('class', 'open-half');
     if (timer) clearTimeout(timer);
