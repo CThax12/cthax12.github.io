@@ -3,7 +3,7 @@
     return document.getElementById(id);
   }
   
-  var audio = new Audio('mymusic.mp3');
+  var audio = new Audio('https://github.com/CallanCampos/Anniversary/raw/main/mymusic.mp3');
   audio.play();
   
   var card = $('card'),
