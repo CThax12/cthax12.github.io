@@ -15,10 +15,6 @@ This project showcases an innovative digital anniversary card designed to create
 
 [Click here](https://callancampos.github.io/Anniversary/) to view the live demo of the anniversary card.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
 ### Prerequisites
 
 - A modern web browser capable of running HTML5, CSS3, and JavaScript.
